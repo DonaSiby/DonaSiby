@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DonaSiby
-- 👀 I’m interested in software development 👩‍💻.
+- 👋 Hi, I’m Dona Siby.
+- 👀 I’m interested in software development and designing.
 - 🌱 I’m currently learning Python and C programming.
 
 
