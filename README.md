@@ -8,6 +8,8 @@
 
 - I'm pursuing BTech from SJCET Palai.
 
+- "Stay hungry.Stay foolish."😇
+
 
 
 <!---
