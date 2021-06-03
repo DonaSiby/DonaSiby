@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dona Siby.
-- 🌱 I’m currently learning Python and C programming.
 
 - 🙌🏼 Technology has become an indispensable part of the modern world.
 - Hence, I am augmenting my ability in this space to enrich my problem-solving and technical skills and pass on my talents to others ✌🏻.
