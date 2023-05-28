@@ -1,13 +1,11 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Dona Siby.
 </h1>
 
-<!-- <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1y7PDcvHpz5q3n74NLLLXRJBVMPFBD-zY" alt="Project Logo" width="800">
-</h1> -->
+
 
 <p>
- <em><b>My name is Dona Siby, and I am a Software Engineering student at SJCET Palai. With a passion for technology and a keen interest in UI/UX design, Android, and web development, I am constantly exploring and expanding my skills in these areas.</b></em>
+ <em><b>I am a Software Engineering student at SJCET Palai. With a passion for technology and a keen interest in UI/UX design, Android, and web development, I am constantly exploring and expanding my skills in these areas.</b></em>
 
 As a UI/UX designer, I strive to create intuitive and visually appealing user interfaces that enhance the overall user experience. I believe in the power of well-crafted designs to make a positive impact on users and solve their problems effectively.
 
@@ -18,8 +16,7 @@ Throughout my journey as a software engineering student, I have gained valuable 
 I am always eager to learn and grow, constantly seeking opportunities to enhance my problem-solving abilities and technical expertise. My goal is to utilize my skills and knowledge to contribute to meaningful projects, collaborate with talented individuals, and make a positive impact in the tech industry.
 </p>
 
-<h2 align="center" style="color: goldenrod;">STREAK AND STATUS</h2>
-
+## GITHUB STATS
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="margin-bottom: 20px;">
     <p align="center">
@@ -35,6 +32,56 @@ I am always eager to learn and grow, constantly seeking opportunities to enhance
   </div>
 </div>
 
+## LANGUAGES AND TOOLS
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+## CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/donasiby/">
+    <img align="center" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/dona_siby">
+    <img align="center" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+</p>
 
 
 <p align="center">
