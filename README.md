@@ -2,7 +2,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Dona Siby.
 </h1>
 
-##📫 How to reach me **dona.c.siby@gmail.com**
 
 
 <p>
@@ -15,6 +14,10 @@ In addition to my design skills, I am proficient in Android and web development.
 Throughout my journey as a software engineering student, I have gained valuable knowledge and practical experience in various programming languages, software development methodologies, and project management.
 
 I am always eager to learn and grow, constantly seeking opportunities to enhance my problem-solving abilities and technical expertise. My goal is to utilize my skills and knowledge to contribute to meaningful projects, collaborate with talented individuals, and make a positive impact in the tech industry.
+</p>
+
+<p align="center">
+<em><b>📫 How to reach me - dona.c.siby@gmail.com </b></em>
 </p>
 
 ## GITHUB STATS
@@ -55,6 +58,9 @@ I am always eager to learn and grow, constantly seeking opportunities to enhance
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
