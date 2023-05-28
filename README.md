@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="[https://drive.google.com/file/d/1y7PDcvHpz5q3n74NLLLXRJBVMPFBD-zY/view?usp=share_link]"  width="200">
-  <br>
+  <img src="[https://drive.google.com/file/d/1y7PDcvHpz5q3n74NLLLXRJBVMPFBD-zY/view?usp=share_link]">
 </h1>
 
 <p align="center">
