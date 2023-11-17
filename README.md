@@ -83,13 +83,14 @@ As a UI/UX designer, I create intuitive, visually appealing interfaces to enhanc
 
 <p align="center">
   <a href="https://www.linkedin.com/in/donasiby/">
-    <img align="center" alt="LinkedIn" width="26px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://icons8.com/icon/13930/linkedin)" />
+    <img align="center" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/dona_siby">
-    <img align="center" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img align="center" alt="Twitter" width="26px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />
   </a>
 </p>
+
 
 
 <p align="center">
