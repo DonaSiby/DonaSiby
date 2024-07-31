@@ -5,9 +5,10 @@
 
 
 <p>
- <em><b>I am a Software Engineering student at SJCET Palai. With a passion for technology and a keen interest in UI/UX design, Android, and web development, I am constantly exploring and expanding my skills in these areas.</b></em>
-
-As a UI/UX designer, I create intuitive, visually appealing interfaces to enhance user experiences. I'm skilled in Android and web development, building interactive and user-friendly apps and websites. With knowledge in programming, project management, and software engineering, I'm dedicated to continuous learning and growth. I seek opportunities to contribute to meaningful projects, collaborate with talented individuals, and make a positive impact in the tech industry.
+ <em><b>
+   Innovative software engineer with a strong foundation in programming and problem-solving. Highly motivated and detail-oriented Deep Learning enthusiast. Proficient in multiple programming languages and development tools. Experienced in UI UX design, front-end development, agile methodologies, and software testing. Proven ability to design and implement scalable, efficient, and maintainable software solutions. Passionate about staying up-to-date with emerging technologies and collaborating with cross-functional teams to deliver cutting-edge products.
+</b></em>
+I am eager to connect with professionals and organizations who share my passion for technology and innovation. Let's collaborate to build solutions that make a difference!
 </p>
 
 <p align="center">
