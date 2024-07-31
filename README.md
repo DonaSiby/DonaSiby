@@ -4,10 +4,11 @@
 
 
 
-<p>
+<p >
  <em><b>
    Innovative software engineer with a strong foundation in programming and problem-solving. Highly motivated and detail-oriented Deep Learning enthusiast. Proficient in multiple programming languages and development tools. Experienced in UI UX design, front-end development, agile methodologies, and software testing. Proven ability to design and implement scalable, efficient, and maintainable software solutions. Passionate about staying up-to-date with emerging technologies and collaborating with cross-functional teams to deliver cutting-edge products.
 </b></em>
+  
 I am eager to connect with professionals and organizations who share my passion for technology and innovation. Let's collaborate to build solutions that make a difference!
 </p>
 
